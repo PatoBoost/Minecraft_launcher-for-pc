@@ -1,7 +1,10 @@
 # Minecraft Launcher for PC
 
 A simple and lightweight custom Minecraft launcher for PC.
-
+## Supported Operating Systems
+* 🪟 **Windows**
+* 🍎 **macOS**
+* 🐧 **Linux**
 ## Features
 * Fast game launch
 * Simple and clean user interface
